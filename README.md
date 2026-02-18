@@ -1,8 +1,8 @@
 # Infrastructure as Code (IaC) with Terraform
 
-**Date:** February 16, 2026 <br>
-**Topic:** Infrastructure as Code (IaC) <br>
-**Project:** Automated Docker Provisioning <br>
+**Date:** February 16, 2026
+**Topic:** Infrastructure as Code (IaC)
+**Project:** Automated Docker Provisioning
 **Tools:** Terraform + Docker
 
 ## Project Overview
